@@ -1,0 +1,39 @@
+
+            .titulo{
+            float:middle;
+            border-bottom: 10px double salmon;
+        
+            }
+            #pics{
+               float: right;
+            width: 40%;
+            margin-right: 5px;
+                }
+                body{
+                    width:30%;
+                }
+            
+                }
+            #fotos{
+            float:right;
+            top:400px;
+             width: 500px;
+            height:400px;
+            }
+       
+            
+            body{
+                background-color:rgb(210, 222, 247);
+            }
+          body{
+              font-family:monospace;
+          }
+          
+            }
+            #texto{
+             
+            }
+            
+            }
+            
+        
